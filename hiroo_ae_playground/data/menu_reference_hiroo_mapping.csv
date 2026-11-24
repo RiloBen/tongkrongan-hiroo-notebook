@@ -1,0 +1,81 @@
+product_id,product_category,product_type,product_detail,transactions,units_sold,sales_value,hiroo_menu_name,mapping_type,mapping_reason,data_role
+50,Tea,Brewed Black tea,Earl Grey Rg,3053,4708,11770.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,3029,4668,21006.0,Choco malt,proxy,Minuman cokelat panas ukuran large; tidak ada padanan ukuran.,external_proxy_not_real_hiroo_sales
+54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,3026,4643,11607.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+38,Coffee,Barista Espresso,Latte,2990,4602,17257.5,Coffee Milk Hiroo,proxy,"Latte sejenis kopi susu, tetapi rasa dan pola permintaan tidak identik.",external_proxy_not_real_hiroo_sales
+44,Tea,Brewed herbal tea,Peppermint Rg,2949,4564,11410.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3013,4547,11367.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2955,4512,11280.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+39,Coffee,Barista Espresso,Latte Rg,2896,4497,19112.25,Coffee Milk Hiroo,proxy,Latte ukuran regular; ukuran menu Hiroo tidak dirinci.,external_proxy_not_real_hiroo_sales
+22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2919,4484,8968.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+46,Tea,Brewed Green tea,Serenity Green Tea Rg,2921,4477,11192.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2961,4453,21151.75,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2833,4433,9752.6,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2894,4410,11025.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2951,4404,13652.4,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2911,4395,16481.25,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2866,4393,13179.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+26,Coffee,Organic brewed coffee,Brazilian Rg,2904,4385,13155.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+45,Tea,Brewed herbal tea,Peppermint Lg,2857,4350,13050.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2830,4346,17384.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2842,4329,16233.75,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+42,Tea,Brewed herbal tea,Lemon Grass Rg,2792,4325,10812.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+27,Coffee,Organic brewed coffee,Brazilian Lg,2771,4317,15109.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+25,Coffee,Organic brewed coffee,Brazilian Sm,2814,4310,9482.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+49,Tea,Brewed Black tea,English Breakfast Lg,2852,4309,12927.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+40,Coffee,Barista Espresso,Cappuccino,2793,4266,15997.5,Cappucino Hiroo,near_equivalent,Cappuccino sesuai jenis menu; ejaan menu Hiroo mengikuti foto.,external_proxy_not_real_hiroo_sales
+51,Tea,Brewed Black tea,Earl Grey Lg,2702,4245,12735.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2741,4227,14794.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+47,Tea,Brewed Green tea,Serenity Green Tea Lg,2750,4220,12660.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+48,Tea,Brewed Black tea,English Breakfast Rg,2743,4200,10500.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2731,4195,12585.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2728,4178,8356.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2716,4174,12522.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2705,4171,10636.05,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+37,Coffee,Barista Espresso,Espresso shot,2730,4165,12495.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+41,Coffee,Barista Espresso,Cappuccino Lg,2772,4151,17641.75,Cappucino Hiroo,near_equivalent,Cappuccino ukuran large; ukuran menu Hiroo tidak dirinci.,external_proxy_not_real_hiroo_sales
+43,Tea,Brewed herbal tea,Lemon Grass Lg,2647,4089,12267.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2594,4018,12455.8,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2630,4018,9844.1,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2636,4007,14024.5,Choco malt,proxy,Minuman cokelat panas dibandingkan minuman cokelat Hiroo; penyajian mungkin berbeda.,external_proxy_not_real_hiroo_sales
+24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2664,3997,11991.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+87,Coffee,Barista Espresso,Ouro Brasileiro shot,2222,3262,8902.2,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+71,Bakery,Pastry,Chocolate Croissant,3076,3096,11625.98,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,1811,2905,2324.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+84,Flavours,Regular syrup,Chocolate syrup,1733,2658,2126.4,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+63,Flavours,Regular syrup,Carmel syrup,1725,2576,2060.8,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+72,Bakery,Scone,Ginger Scone,2324,2540,8011.61,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+64,Flavours,Regular syrup,Hazelnut syrup,1521,2372,1897.6,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+70,Bakery,Scone,Cranberry Scone,2077,2092,6818.44,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+79,Bakery,Scone,Jumbo Savory Scone,2008,2028,7626.62,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+69,Bakery,Biscotti,Hazelnut Biscotti,2009,2028,6608.01,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+78,Bakery,Scone,Scottish Cream Scone,1952,1985,8949.45,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+75,Bakery,Pastry,Croissant,1933,1954,6861.88,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+76,Bakery,Biscotti,Chocolate Chip Biscotti,1891,1924,6748.96,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+73,Bakery,Pastry,Almond Croissant,1903,1911,7168.13,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+74,Bakery,Biscotti,Ginger Biscotti,1811,1836,6436.56,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+77,Bakery,Scone,Oatmeal Scone,1812,1820,5460.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+83,Branded,Housewares,I Need My Bean! Latte cup,304,315,4509.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+8,Coffee beans,Premium Beans,Civet Cat,190,260,11700.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+82,Branded,Housewares,I Need My Bean! Diner mug,222,240,2935.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+81,Branded,Clothing,I Need My Bean! T-shirt,221,221,6163.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,221,221,1679.6,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+6,Coffee beans,Gourmet Beans,Ethiopia,218,218,4578.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+1,Coffee beans,Organic Beans,Brazilian - Organic,209,214,3852.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+9,Coffee beans,Organic Beans,Organic Decaf Blend,206,206,4657.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+2,Coffee beans,House blend Beans,Our Old Time Diner Blend,183,183,3294.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+3,Coffee beans,Espresso Beans,Espresso Roast,169,169,2492.75,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+17,Loose Tea,Chai tea,Morning Sunrise Chai,168,168,1596.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+13,Loose Tea,Black tea,English Breakfast,161,161,1440.9499999999998,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+15,Loose Tea,Green tea,Serenity Green Tea,159,159,1470.75,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+12,Loose Tea,Herbal tea,Peppermint,153,153,1369.35,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+16,Loose Tea,Chai tea,Traditional Blend Chai,153,153,1369.35,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+11,Loose Tea,Herbal tea,Lemon Grass,152,152,1360.4,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+4,Coffee beans,Espresso Beans,Primo Espresso Roast,150,150,3067.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+5,Coffee beans,Gourmet Beans,Columbian Medium Roast,148,148,2220.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,148,148,1972.84,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+7,Coffee beans,Premium Beans,Jamacian Coffee River,146,146,2883.5,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+14,Loose Tea,Black tea,Earl Grey,142,142,1270.9,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+10,Coffee beans,Green beans,Guatemalan Sustainably Grown,134,134,1340.0,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+18,Loose Tea,Chai tea,Spicy Eye Opener Chai,122,122,1335.9,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales
+19,Packaged Chocolate,Drinking Chocolate,Dark chocolate,118,118,755.2,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,external_proxy_not_real_hiroo_sales

@@ -1,0 +1,17 @@
+{
+  "rows_input": 149116,
+  "rows_accepted": 149116,
+  "rows_rejected": 0,
+  "sales_value_source_units": 698812.33,
+  "currency": "not_confirmed",
+  "business_source": "public_coffee_shop_dataset_not_hiroo",
+  "is_verified_paid_revenue": false,
+  "payment_breakdown_available": false,
+  "notes": "Penjualan berasal dari dataset publik. Tidak tersedia status pembayaran atau transaksi asli Hiroo.",
+  "transactions_recorded": 149116,
+  "units_sold": 214470,
+  "average_transaction_value": 4.69,
+  "observation_start": "2023-01-01",
+  "observation_end": "2023-06-30",
+  "top_product_by_units": "Earl Grey Rg"
+}

@@ -1,0 +1,33 @@
+{
+  "executive_summary": "Performa toko menunjukkan kestabilan tinggi dengan pola lonjakan akhir pekan mencapai +18.4%. Namun, terjadi penurunan transaksi signifikan di tengah pekan (Rabu). Dibutuhkan strategi bundling targeted.",
+  "promo_bundling_recommendations": [
+    {
+      "bundle_title": "Paket Booster Rebo Nyantai (Diskon Hari Lesu)",
+      "target_days": [
+        "Tuesday",
+        "Wednesday"
+      ],
+      "paired_items": [
+        "Coffee Milk Hiroo (Hero)",
+        "Roti Picisan Hiroo (Snack)"
+      ],
+      "normal_price_idr": 35000,
+      "promo_price_idr": 29000,
+      "strategic_rationale": "Memasangkan minuman terlaris dengan snack roti untuk mendongkrak transaksi pada hari paling sepi (Rabu) tanpa memotong margin di akhir pekan."
+    },
+    {
+      "bundle_title": "Paket Kombo Live Music Sabtu (Volume & Margin)",
+      "target_days": [
+        "Saturday"
+      ],
+      "paired_items": [
+        "Choco malt (Hero)",
+        "Sayap - Sayap Patah Hiroo (Snack Premium)"
+      ],
+      "normal_price_idr": 39000,
+      "promo_price_idr": 35000,
+      "strategic_rationale": "Memanfaatkan keramaian malam minggu untuk menjual menu snack ber-margin tinggi kepada pelanggan yang nongkrong berdurasi panjang."
+    }
+  ],
+  "inventory_advisory": "Persiapkan stok susu dan bubuk cokelat 25% lebih banyak menjelang hari Jumat dan Sabtu."
+}

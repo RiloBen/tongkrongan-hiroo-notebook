@@ -1,0 +1,81 @@
+product_id,product_detail,product_category,product_type,hiroo_menu_name,mapping_type,mapping_reason,source_dataset,target_catalog_source,is_real_hiroo_transaction
+1,Brazilian - Organic,Coffee beans,Organic Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+2,Our Old Time Diner Blend,Coffee beans,House blend Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+3,Espresso Roast,Coffee beans,Espresso Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+4,Primo Espresso Roast,Coffee beans,Espresso Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+5,Columbian Medium Roast,Coffee beans,Gourmet Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+6,Ethiopia,Coffee beans,Gourmet Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+7,Jamacian Coffee River,Coffee beans,Premium Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+8,Civet Cat,Coffee beans,Premium Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+9,Organic Decaf Blend,Coffee beans,Organic Beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+10,Guatemalan Sustainably Grown,Coffee beans,Green beans,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+11,Lemon Grass,Loose Tea,Herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+12,Peppermint,Loose Tea,Herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+13,English Breakfast,Loose Tea,Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+14,Earl Grey,Loose Tea,Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+15,Serenity Green Tea,Loose Tea,Green tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+16,Traditional Blend Chai,Loose Tea,Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+17,Morning Sunrise Chai,Loose Tea,Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+18,Spicy Eye Opener Chai,Loose Tea,Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+19,Dark chocolate,Packaged Chocolate,Drinking Chocolate,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+20,Sustainably Grown Organic,Packaged Chocolate,Organic Chocolate,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+21,Chili Mayan,Packaged Chocolate,Drinking Chocolate,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+22,Our Old Time Diner Blend Sm,Coffee,Drip coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+23,Our Old Time Diner Blend Rg,Coffee,Drip coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+24,Our Old Time Diner Blend Lg,Coffee,Drip coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+25,Brazilian Sm,Coffee,Organic brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+26,Brazilian Rg,Coffee,Organic brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+27,Brazilian Lg,Coffee,Organic brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+28,Columbian Medium Roast Sm,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+29,Columbian Medium Roast Rg,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+30,Columbian Medium Roast Lg,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+31,Ethiopia Sm,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+32,Ethiopia Rg,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+33,Ethiopia Lg,Coffee,Gourmet brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+34,Jamaican Coffee River Sm,Coffee,Premium brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+35,Jamaican Coffee River Rg,Coffee,Premium brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+36,Jamaican Coffee River Lg,Coffee,Premium brewed coffee,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+37,Espresso shot,Coffee,Barista Espresso,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+38,Latte,Coffee,Barista Espresso,Coffee Milk Hiroo,proxy,"Latte sejenis kopi susu, tetapi rasa dan pola permintaan tidak identik.",Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+39,Latte Rg,Coffee,Barista Espresso,Coffee Milk Hiroo,proxy,Latte ukuran regular; ukuran menu Hiroo tidak dirinci.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+40,Cappuccino,Coffee,Barista Espresso,Cappucino Hiroo,near_equivalent,Cappuccino sesuai jenis menu; ejaan menu Hiroo mengikuti foto.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+41,Cappuccino Lg,Coffee,Barista Espresso,Cappucino Hiroo,near_equivalent,Cappuccino ukuran large; ukuran menu Hiroo tidak dirinci.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+42,Lemon Grass Rg,Tea,Brewed herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+43,Lemon Grass Lg,Tea,Brewed herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+44,Peppermint Rg,Tea,Brewed herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+45,Peppermint Lg,Tea,Brewed herbal tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+46,Serenity Green Tea Rg,Tea,Brewed Green tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+47,Serenity Green Tea Lg,Tea,Brewed Green tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+48,English Breakfast Rg,Tea,Brewed Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+49,English Breakfast Lg,Tea,Brewed Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+50,Earl Grey Rg,Tea,Brewed Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+51,Earl Grey Lg,Tea,Brewed Black tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+52,Traditional Blend Chai Rg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+53,Traditional Blend Chai Lg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+54,Morning Sunrise Chai Rg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+55,Morning Sunrise Chai Lg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+56,Spicy Eye Opener Chai Rg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+57,Spicy Eye Opener Chai Lg,Tea,Brewed Chai tea,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+58,Dark chocolate Rg,Drinking Chocolate,Hot chocolate,Choco malt,proxy,Minuman cokelat panas dibandingkan minuman cokelat Hiroo; penyajian mungkin berbeda.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+59,Dark chocolate Lg,Drinking Chocolate,Hot chocolate,Choco malt,proxy,Minuman cokelat panas ukuran large; tidak ada padanan ukuran.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+60,Sustainably Grown Organic Rg,Drinking Chocolate,Hot chocolate,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+61,Sustainably Grown Organic Lg,Drinking Chocolate,Hot chocolate,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+63,Carmel syrup,Flavours,Regular syrup,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+64,Hazelnut syrup,Flavours,Regular syrup,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+65,Sugar Free Vanilla syrup,Flavours,Sugar free syrup,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+69,Hazelnut Biscotti,Bakery,Biscotti,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+70,Cranberry Scone,Bakery,Scone,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+71,Chocolate Croissant,Bakery,Pastry,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+72,Ginger Scone,Bakery,Scone,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+73,Almond Croissant,Bakery,Pastry,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+74,Ginger Biscotti,Bakery,Biscotti,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+75,Croissant,Bakery,Pastry,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+76,Chocolate Chip Biscotti,Bakery,Biscotti,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+77,Oatmeal Scone,Bakery,Scone,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+78,Scottish Cream Scone,Bakery,Scone,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+79,Jumbo Savory Scone,Bakery,Scone,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+81,I Need My Bean! T-shirt,Branded,Clothing,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+82,I Need My Bean! Diner mug,Branded,Housewares,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+83,I Need My Bean! Latte cup,Branded,Housewares,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+84,Chocolate syrup,Flavours,Regular syrup,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
+87,Ouro Brasileiro shot,Coffee,Barista Espresso,,unmapped,Tidak ditemukan padanan produk yang cukup spesifik pada foto menu Hiroo.,Kaggle Coffee Shop Sales,Foto menu Tongkrongan Hiroo 2026-11-23,False
