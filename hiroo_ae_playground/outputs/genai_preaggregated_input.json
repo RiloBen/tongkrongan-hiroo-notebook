@@ -1,17 +1,24 @@
 {
   "store_kpi_summary": {
     "observation_period": "2023-01-01 to 2023-06-30",
-    "total_revenue_recorded": 698812.33,
+    "total_sales_value_source_units": 698812.33,
+    "currency": "not_confirmed",
+    "is_verified_paid_revenue": false,
     "total_transactions": 149116,
     "total_units_sold": 214470,
-    "overall_average_ticket": 4.69,
-    "data_lineage": "external_proxy_not_real_hiroo_sales"
+    "overall_average_ticket_source_units": 4.69,
+    "data_lineage": "external_proxy_not_real_hiroo_sales",
+    "ranking_scope_note": "Menu performance ranking strictly uses the 16 Strict 1-to-1 Kaggle menus (synthetic_dummy_hiroo_catalog excluded)."
   },
   "temporal_traffic_patterns": {
-    "busiest_day": "Saturday (peak traffic and live music uplift)",
-    "quietest_day": "Wednesday (slump volume day)",
-    "weekend_vs_weekday_uplift": "+-1.5% higher volume on weekends",
-    "daily_atv_range": {
+    "busiest_day": "Monday (avg 1201.2 units/day in Kaggle reference)",
+    "quietest_day": "Sunday (avg 1160.8 units/day in Kaggle reference)",
+    "busiest_day_name": "Monday",
+    "quietest_day_name": "Sunday",
+    "weekend_uplift_pct": -1.5,
+    "weekend_vs_weekday_uplift": "-1.5% vs weekday average",
+    "hiroo_operational_context": "Jadwal Live Music Tongkrongan Hiroo berada pada Saturday malam; pola historis Kaggle menunjukkan puncak di Monday dan titik terendah di Sunday.",
+    "daily_atv_source_units_range": {
       "min": 4.25,
       "max": 6.18
     },
@@ -19,80 +26,107 @@
       "Friday": {
         "avg_trx": 834.7,
         "avg_units": 1200.3,
-        "avg_revenue": 3899.0
+        "avg_sales_value": 3899.0
       },
       "Monday": {
         "avg_trx": 832.4,
         "avg_units": 1201.2,
-        "avg_revenue": 3910.7
+        "avg_sales_value": 3910.7
       },
       "Saturday": {
         "avg_trx": 820.4,
         "avg_units": 1184.6,
-        "avg_revenue": 3875.8
+        "avg_sales_value": 3875.8
       },
       "Sunday": {
         "avg_trx": 811.4,
         "avg_units": 1160.8,
-        "avg_revenue": 3781.9
+        "avg_sales_value": 3781.9
       },
       "Thursday": {
         "avg_trx": 832.8,
         "avg_units": 1198.5,
-        "avg_revenue": 3875.7
+        "avg_sales_value": 3875.7
       },
       "Tuesday": {
         "avg_trx": 815.5,
         "avg_units": 1171.1,
-        "avg_revenue": 3825.2
+        "avg_sales_value": 3825.2
       },
       "Wednesday": {
         "avg_trx": 819.6,
         "avg_units": 1177.9,
-        "avg_revenue": 3858.2
+        "avg_sales_value": 3858.2
       }
     }
   },
   "menu_performance_ranking": {
+    "evaluated_menu_count": 16,
     "top_performing_heroes": [
       {
-        "menu_name": "Kopi Susu",
-        "units_sold": 38985,
-        "role": "Traffic Driver"
-      },
-      {
-        "menu_name": "Teh Tarik",
-        "units_sold": 26693,
-        "role": "Traffic Driver"
-      },
-      {
+        "menu_id": "MNU-001",
         "menu_name": "Es Teh",
-        "units_sold": 17765,
+        "category": "Minuman Dingin",
+        "official_price_idr": 6000,
+        "units_sold": 4708,
+        "data_role": "external_proxy_not_real_hiroo_sales",
+        "role": "Traffic Driver"
+      },
+      {
+        "menu_id": "MNU-021",
+        "menu_name": "Teh Tarik",
+        "category": "Minuman HOT",
+        "official_price_idr": 8000,
+        "units_sold": 4643,
+        "data_role": "external_proxy_not_real_hiroo_sales",
+        "role": "Traffic Driver"
+      },
+      {
+        "menu_id": "MNU-026",
+        "menu_name": "Ice Coffee Milk Hiroo",
+        "category": "Ice Coffee",
+        "official_price_idr": 15000,
+        "units_sold": 4602,
+        "data_role": "external_proxy_not_real_hiroo_sales",
         "role": "Traffic Driver"
       }
     ],
     "slow_moving_candidates": [
       {
-        "menu_name": "Hazelnut Latte",
-        "units_sold": 906,
+        "menu_id": "MNU-043",
+        "menu_name": "Cheese Roll",
+        "category": "Makanan Ringan",
+        "official_price_idr": 10000,
+        "units_sold": 1954,
+        "data_role": "external_proxy_not_real_hiroo_sales",
         "role": "Candidate for Promo Bundling"
       },
       {
-        "menu_name": "Takoyaki",
-        "units_sold": 776,
+        "menu_id": "MNU-052",
+        "menu_name": "Roti Picisan Hiroo",
+        "category": "Makanan Ringan",
+        "official_price_idr": 20000,
+        "units_sold": 2540,
+        "data_role": "external_proxy_not_real_hiroo_sales",
         "role": "Candidate for Promo Bundling"
       },
       {
-        "menu_name": "Hiroo Sunset",
-        "units_sold": 420,
+        "menu_id": "MNU-044",
+        "menu_name": "Chocolate Roll",
+        "category": "Makanan Ringan",
+        "official_price_idr": 10000,
+        "units_sold": 3096,
+        "data_role": "external_proxy_not_real_hiroo_sales",
         "role": "Candidate for Promo Bundling"
       }
     ]
   },
   "ml_forecast_signals": {
     "forecasted_horizon_days": 7,
-    "demand_trend": "Increasing towards weekend peak",
-    "recommended_lead_hero": "Kopi Susu",
-    "recommended_bundle_target": "Hazelnut Latte"
+    "forecast_model": "Ridge Regression",
+    "recommended_lead_hero": "Es Teh",
+    "lead_hero_7d_predicted_units": 250.6,
+    "recommended_bundle_target": "Cheese Roll",
+    "bundle_target_7d_predicted_units": 99.4
   }
 }

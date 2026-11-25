@@ -1,33 +1,62 @@
 {
-  "executive_summary": "Performa toko menunjukkan kestabilan tinggi dengan pola lonjakan akhir pekan mencapai +18.4%. Namun, terjadi penurunan transaksi signifikan di tengah pekan (Rabu). Dibutuhkan strategi bundling targeted.",
+  "metadata": {
+    "generated_from_model": "Ridge Regression",
+    "ranking_scope": "16 Strict 1-to-1 Kaggle menus only",
+    "pricing_basis": "DATA_MENU_HIROO.md official price_idr (no HPP/COGS data available in DB FS)",
+    "db_fs_compatibility": "Dapat didaftarkan sebagai baris paket promo pada tabel `menus` (via REST API payload; DB FS tidak menyimpan tabel ai_recommendations)"
+  },
+  "executive_summary": "Pada data proxy Kaggle 181 hari, volume akhir pekan tercatat -1.5% dibanding rata-rata hari kerja, dengan hari teramai di Monday (1201.2 unit/hari) dan hari paling sepi di Sunday (1160.8 unit/hari). Dari 16 menu Strict 1-to-1, menu terlaris adalah 'Es Teh' (4,708 unit), sedangkan kandidat slow-moving utama adalah 'Cheese Roll' (1,954 unit). Bundling disusun berbasis harga jual katalog resmi dan sinyal volume tanpa asumsi HPP.",
   "promo_bundling_recommendations": [
     {
-      "bundle_title": "Paket Booster Rebo Nyantai (Diskon Hari Lesu)",
+      "bundle_title": "Paket Traffic Booster Sunday (Es Teh + Cheese Roll)",
       "target_days": [
-        "Tuesday",
-        "Wednesday"
+        "Sunday",
+        "Tuesday"
       ],
       "paired_items": [
-        "Coffee Milk Hiroo (Hero)",
-        "Roti Picisan Hiroo (Snack)"
+        {
+          "menu_id": "MNU-001",
+          "menu_name": "Es Teh",
+          "price_idr": 6000,
+          "role": "Traffic Driver"
+        },
+        {
+          "menu_id": "MNU-043",
+          "menu_name": "Cheese Roll",
+          "price_idr": 10000,
+          "role": "Slow-Moving Target"
+        }
       ],
-      "normal_price_idr": 35000,
-      "promo_price_idr": 29000,
-      "strategic_rationale": "Memasangkan minuman terlaris dengan snack roti untuk mendongkrak transaksi pada hari paling sepi (Rabu) tanpa memotong margin di akhir pekan."
+      "normal_price_idr": 16000,
+      "promo_price_idr": 14000,
+      "fs_menus_target_category_enum": "Cemilan",
+      "strategic_rationale": "Memasangkan volume driver 'Es Teh' (4,708 unit, Rp6,000) dengan menu bervolume terendah 'Cheese Roll' (1,954 unit, Rp10,000) untuk mendorong pergerakan stok pada hari tersepi (Sunday) dengan harga paket Rp14,000 (hemat Rp2,000 dari harga jual gabungan)."
     },
     {
-      "bundle_title": "Paket Kombo Live Music Sabtu (Volume & Margin)",
+      "bundle_title": "Paket Kombo Live Music Sabtu (Teh Tarik + Roti Picisan Hiroo)",
       "target_days": [
-        "Saturday"
+        "Saturday",
+        "Monday"
       ],
       "paired_items": [
-        "Choco malt (Hero)",
-        "Sayap - Sayap Patah Hiroo (Snack Premium)"
+        {
+          "menu_id": "MNU-021",
+          "menu_name": "Teh Tarik",
+          "price_idr": 8000,
+          "role": "Traffic Driver #2"
+        },
+        {
+          "menu_id": "MNU-052",
+          "menu_name": "Roti Picisan Hiroo",
+          "price_idr": 20000,
+          "role": "Official Snack Catalog Partner"
+        }
       ],
-      "normal_price_idr": 39000,
-      "promo_price_idr": 35000,
-      "strategic_rationale": "Memanfaatkan keramaian malam minggu untuk menjual menu snack ber-margin tinggi kepada pelanggan yang nongkrong berdurasi panjang."
+      "normal_price_idr": 28000,
+      "promo_price_idr": 25000,
+      "fs_menus_target_category_enum": "Cemilan",
+      "strategic_rationale": "Mengoptimalkan trafik malam Live Music (Saturday) dan puncak historis (Monday) lewat pasangan 'Teh Tarik' (4,643 unit, Rp8,000) dan snack katalog resmi 'Roti Picisan Hiroo' (Rp20,000) untuk meningkatkan nilai transaksi per pelanggan berdasarkan harga jual resmi."
     }
   ],
-  "inventory_advisory": "Persiapkan stok susu dan bubuk cokelat 25% lebih banyak menjelang hari Jumat dan Sabtu."
+  "inventory_advisory": "Prioritaskan kesiapan bahan untuk hero 'Es Teh' (proyeksi 7 hari: 250.6 porsi) dan pantau kebutuhan komponen bundling 'Cheese Roll' (proyeksi 7 hari: 99.4 porsi) serta item Republik Hiroo (MNU-059, MNU-060, MNU-061, MNU-062, MNU-063)."
 }
