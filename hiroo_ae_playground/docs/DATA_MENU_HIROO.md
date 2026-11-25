@@ -123,7 +123,7 @@ Dokumen ini merupakan **Satu Sumber Kebenaran (*Single Source of Truth*)** untuk
 | 2 | Sayap-sayap Patah Hiroo + Iced Rosela Hati Hiroo | 43K | Rp43.000 | Sayap-Sayap Patah (25K) + Rosela Hati (20K) |
 | 3 | Kentang Mozzarella + Matcha Aren Hiroo | 35K | Rp35.000 | Kentang Mozzarella (20K) + Matcha Aren (18K) |
 | 4 | Chicken Pop + Manggo Cili | 30K | Rp30.000 | Chicken Pop (20K) + Minuman Manggo Cili |
-| 5 | Otak-otak / Dimsum | 30K | Rp30.000 | Menu cemilan paket dimsum/otak-otak |
+| 5 | Dimsum | 30K | Rp30.000 | Menu cemilan paket dimsum/otak-otak |
 
 ---
 
